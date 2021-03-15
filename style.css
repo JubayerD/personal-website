@@ -1,0 +1,98 @@
+body{
+   box-sizing: border-box; 
+    font-family:'Poppins', sans-serif;
+    margin: 0;
+}
+#margin{
+    margin-top: 50px;
+}
+.hello{
+    width:40%;
+    float:left;
+    margin-left:5%;
+    padding-left: 2%;
+    
+}
+.hello-section{
+    background-image: url("images/header-bg.png");
+    background-repeat: no-repeat;
+}
+.hello img{
+    width:100%;
+}
+section{
+    margin-bottom: 150px;
+    height: 500px;
+}
+.hello h1{
+    font-size: 40px;
+}
+.hello h2{
+    font-size:45px;
+    color:crimson;
+}
+.hello p{
+    color:#635c5c;
+    line-height: 25px;
+    margin-bottom: 40px;
+}
+.link-btn{
+    text-decoration: none;
+    background-color:crimson;
+    padding:10px 25px;
+    border-radius: 5px;
+    color:white;
+    font-weight: 500;
+}
+#biography-margin{
+    margin-top:90px;
+}
+.biography-section{
+    background-image: url("images/biography-bg.png");
+    background-repeat: no-repeat;
+}
+.latestH1{
+    font-size: 35px;
+    margin-top: 300px;
+    text-align: center;
+    font-weight: 600;
+}
+.latest-work-section{
+    background-images:url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+.imgw{
+    width: 33%;
+    margin-top: 50px;
+}
+.text{
+    text-align: center;
+    font-family: 'Roboto',sans-serif;
+}
+.what{
+    margin-bottom:70px;
+}
+.text p{
+    margin-top: -15px;
+}
+.lorem{
+    margin-top: 40px;
+    width: 35%;
+    margin: 0 auto;
+    color:#333;
+}
+.massege{
+    text-align:center;
+    margin-top: 100px;
+    background-image:linear-gradient(45deg, #db667e, crimson);
+    width: 45%;
+    margin: 70px auto;
+    padding: 9px 15px;
+    border-radius: 5px;
+    color: white;
+}
+footer{
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 25px;
+}
